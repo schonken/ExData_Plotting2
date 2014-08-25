@@ -1,8 +1,14 @@
 # History files
 .Rhistory
+*.Rproj
 
 # Example code in package build process
 *-Ex.R
 
 # R data files from past sessions
 .Rdata
+.Rproj.user
+
+# Data Files
+*.rds
+*.zip
